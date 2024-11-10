@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dorjeela/Finance-Tracker/static/css/main.f855e6bc.css",
+    "main.js": "/Dorjeela/Finance-Tracker/static/js/main.9850e250.js",
+    "index.html": "/Dorjeela/Finance-Tracker/index.html",
+    "main.f855e6bc.css.map": "/Dorjeela/Finance-Tracker/static/css/main.f855e6bc.css.map",
+    "main.9850e250.js.map": "/Dorjeela/Finance-Tracker/static/js/main.9850e250.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9850e250.js"
+  ]
+}
